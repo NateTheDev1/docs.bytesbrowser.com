@@ -1,14 +1,30 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
+slug: /
 ---
 
-# Tutorial Intro
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
-Let's discover **Docusaurus in less than 5 minutes**.
+# Setup Bytes Browser
+
+Let's setup **Bytes Browser in less than 5 minutes**.
 
 ## Getting Started
 
-Get started by **creating a new site**.
+### Installation
+
+Download the latest version of Bytes Browser from the [downloads page](https://bytesbrowser.com/downloads) at any time. Bytes Browser will be available for Windows, macOS, and Linux Bytes Browser is currently in Alpha and is not yet available for macOS and Linux. We are working hard to bring it to you as soon as possible.
+
+To install Bytes Browser, simply run the downloaded installer and follow the instructions.
+
+![Install Window](./install.png)
+
+:::info
+
+**Note:** This will be the only time you need to download Bytes Browser. Bytes Browser will automatically update itself when a new version is available.
+
+<!-- Get started by **creating a new site**.
 
 Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
@@ -44,4 +60,4 @@ The `cd` command changes the directory you're working with. In order to work wit
 
 The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes. -->
