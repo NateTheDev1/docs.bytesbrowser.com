@@ -1,10 +1,7 @@
 
 # Features
 
-:::caution
-
-**Note:** This page is still under construction. More features will be added soon.
-
+All the features of Bytes Browser in one place.
 
 ## Navigate, Edit, Optimize: All in One Place
 
