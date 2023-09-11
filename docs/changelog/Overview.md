@@ -18,7 +18,7 @@ Bytes Browser follows the [Semantic Versioning](https://semver.org/) guidelines.
 
 ## Changelog
 
-The changelog is a log or record of all notable changes made to Bytes Browser. The changelog is updated with every release. You can view the changelog [here](/changelog). The changelog is also available in the app.
+The changelog is a log or record of all notable changes made to Bytes Browser. The changelog is updated with every release. You can view the changelog [here](/changelog/Overview). The changelog is also available in the app.
 
 ## Reporting Bugs & Requesting Features
 
