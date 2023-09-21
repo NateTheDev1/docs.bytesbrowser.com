@@ -6,6 +6,8 @@ sidebar_position: 1
 
 A basic introduction to themes in Bytes Browser.
 
+![Package Manager](/gif/Theming.gif)
+
 ## What is a theme?
 
 :::info
